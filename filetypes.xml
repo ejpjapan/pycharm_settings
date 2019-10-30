@@ -4,6 +4,7 @@
     <extensionMap>
       <mapping pattern="test_opt_sim_data" type="Python" />
       <mapping pattern="opt_sim_data" type="Python" />
+      <mapping pattern="twilio_sms" type="Python" />
     </extensionMap>
   </component>
 </application>
