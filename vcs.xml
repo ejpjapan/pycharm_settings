@@ -14,9 +14,13 @@
           <option name="url" value="http://github.com" />
           <option name="userName" value="ejpjapan" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="S:\Research &amp; Portfolio Management\EB\git_remote" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/PycharmProjects" />
+    <option name="cloneParentDir" value="C:\Users\EBellord\PycharmProjects" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ORDER">
