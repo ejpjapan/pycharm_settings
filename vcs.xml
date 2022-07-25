@@ -22,6 +22,10 @@
           <option name="url" value="https://github.com/HardingLoevner/research-tool-kit.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/HardingLoevner/bokeh_bubble.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\EBellord\PycharmProjects" />
